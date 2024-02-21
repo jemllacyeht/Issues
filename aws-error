@@ -1,0 +1,2 @@
+creating EC2 Instance: InvalidInput: No default subnet for availability zone: 'ap-southeast-2a'.
+-- aws ec2 create-default-subnet --availability-zone ap-southeast-2a
